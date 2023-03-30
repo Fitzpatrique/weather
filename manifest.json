@@ -1,0 +1,16 @@
+{
+    "name":"Weather",
+    "short_name":"Weather",
+    "start_url":".",
+    "background_color":"#68E8F4",
+    "theme_color":"#222",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"images/weather-app-icon.png",
+            "sizes":"700x700",
+            "type":"image/png"
+        }
+    ]
+
+}
